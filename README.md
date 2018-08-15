@@ -1,0 +1,1 @@
+# inventarisatie_applicatie
